@@ -1,0 +1,13 @@
+beautifulsoup4==4.14.2
+jieba==0.42.1
+numpy==2.3.5
+openai==2.8.1
+openpyxl==3.1.5
+pandas==2.3.3
+processor==0.10.0
+pyperclip==1.9.0
+pyperclip==1.11.0
+Requests==2.32.5
+selenium==4.38.0
+Tools==1.0.13
+tqdm==4.67.1
